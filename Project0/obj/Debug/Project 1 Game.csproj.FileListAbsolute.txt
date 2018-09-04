@@ -1,0 +1,20 @@
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project 1 Game.csprojAssemblyReference.cache
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project_1_Game.Form1.resources
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project_1_Game.Properties.Resources.resources
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project 1 Game.csproj.GenerateResource.cache
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project 1 Game.csproj.CoreCompileInputs.cache
+C:\Users\Misch\source\repos\Project 1 Game\bin\Debug\Project 1 Game.exe.config
+C:\Users\Misch\source\repos\Project 1 Game\bin\Debug\Project 1 Game.exe
+C:\Users\Misch\source\repos\Project 1 Game\bin\Debug\Project 1 Game.pdb
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project 1 Game.exe
+C:\Users\Misch\source\repos\Project 1 Game\obj\Debug\Project 1 Game.pdb
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\bin\Debug\Project 1 Game.exe.config
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\bin\Debug\Project 1 Game.exe
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\bin\Debug\Project 1 Game.pdb
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project 1 Game.csprojAssemblyReference.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project_1_Game.Form1.resources
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project_1_Game.Properties.Resources.resources
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project 1 Game.csproj.GenerateResource.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project 1 Game.csproj.CoreCompileInputs.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project 1 Game.exe
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 1 Game\obj\Debug\Project 1 Game.pdb
