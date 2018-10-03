@@ -1,0 +1,10 @@
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\bin\Debug\Project 01-Sprites.exe.config
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\bin\Debug\Project 01-Sprites.exe
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\bin\Debug\Project 01-Sprites.pdb
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project 01-Sprites.csprojAssemblyReference.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project_01_Sprites.Engine.resources
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project_01_Sprites.Properties.Resources.resources
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project 01-Sprites.csproj.GenerateResource.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project 01-Sprites.csproj.CoreCompileInputs.cache
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project 01-Sprites.exe
+C:\Users\Misch\Documents\School Work\Computer Programing\GameProgramming2018\Project 01\obj\Debug\Project 01-Sprites.pdb
